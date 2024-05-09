@@ -1,4 +1,5 @@
 # IEOR 142 (Machine Learning and Data Analytics) Final Report: How to Build an NBA Champion
+December 2023
 
 By Khalled Mahmoud, Christina Huynh, Ethan Chung, Reuel Yang, Sultan Badri
 
