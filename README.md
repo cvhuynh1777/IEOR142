@@ -15,4 +15,7 @@ Analytic Models
 
 Our investigation delves into the essentials of securing an NBA Championship, breaking down the journey into five key analyses: drafting star players, retaining long-term talent, building team chemistry, and winning regular-season and playoff games. Each analysis offers a unique lens on the complex path to championship glory, providing a comprehensive understanding of the elements critical for an NBA team's success
 
+All code will be linked at the bottom of the full report.
+
 Link to Full Report: https://docs.google.com/document/d/15DtLXGtObenIkjVW0h2xz6-LOGfEYYnK3ptE5DJRrWA/edit?usp=sharing
+Link to Presentation: https://youtu.be/KLopF6BaPhM
